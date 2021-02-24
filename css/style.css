@@ -6,22 +6,23 @@ font color       Base2  #eee8d5
 
 body {
   background-color: #eee8d5;
-  font-family: Consolas, monospace, serif;
+  font-family: 'Courier New', monospace;
+  font-size: 16px;
 }
 
 h1 {
-  color: #002b36;
+  color: #003d4d;
   margin-left: 40px;
   white-space: pre;
 }
 
 p {
-  color: #002b36;
+  color: #003d4d;
   white-space: pre;
 }
 
 pre {
-  color: #002b36;
+  color: #003d4d;
   white-space: pre;
 }
 
