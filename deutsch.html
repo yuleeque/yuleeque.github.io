@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <!-- viewport: check later how it works with images 
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  -->
   <title>Deutsch</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -18,7 +20,7 @@
       <th></th>
       <th>
         <picture>
-          <img src="images/Cicle_64x64_large.png" alt="circle"  style="width:auto;">
+          <img src="images/Cicle_64x64.png" alt="circle"  style="width:auto;">
         </picture>
       </th> 
       <th></th>
@@ -132,9 +134,16 @@ nur M mit Endungen:
     -it    der Bandit        -ant   der Praktikant      -ent   der Student
     -soph  der Philosoph     -and   der Doktorand       -loge  der Psychologe
 
-z.B.: <abbr title="Aktivist, Bote, Bube, Bursche, Chaot, Erbe, Experte, Knabe, Kollege, Kommilitone, Komplize, Kunde, Laie, Favorit, Gatte, Heide, Insasse, Junge, Junggeselle, Kandidat, Neffe, Riese, Sklave, Zeuge">Personen</abbr>, <abbr title="Affe, Bulle, Coyote, Drache, Elefant, Falke, Hase, Löve, Ochse, Rabe, Schimpanse">Tiere</abbr>, <abbr title="Afghane, Baske, Brite, Bulgare, Chinese, Däne, Franzose, Grieche, Ire, Jugoslawe, Kroate, Kurde, Mongole, Pole, Russe, Schotte, Türkee">Nationalitäten</abbr>.
+folgende <abbr title="Aktivist, Bote, Bube, Bursche, Chaot, Erbe, Experte,
+Knabe, Kollege, Kommilitone, Komplize, Kunde,
+Laie, Favorit, Gatte, Heide, Insasse, Junge, Junggeselle,
+Kandidat, Neffe, Riese, Sklave, Zeuge">Personen</abbr>, <abbr title="Affe, Bulle, Coyote, Drache, Elefant,Falke,
+Hase, Löve, Ochse, Rabe, Schimpanse">Tiere</abbr>, <abbr title="Afghane, Baske, Brite, Bulgare, Chinese,
+Däne, Franzose, Grieche, Ire, Jugoslawe,
+Kroate, Kurde, Mongole, Pole, Russe,
+Schotte, Türkee">Nationalitäten</abbr>.
 
-<abbr title="Architekt, Bauer, Depp, Fürst, Held, Herr, Kamerad, Mensch, Nachbar, Narr, Prinz, Rebell">Personen</abbr>, <abbr title="Bär, Fink">Tiere</abbr>, <abbr title="Ungar">Nationalitäten</abbr> ohne erwähnten Endungen.
+und auch <abbr title="Architekt, Bauer, Depp, Fürst, Held, Herr, Kamerad, Mensch, Nachbar, Narr, Prinz, Rebell">Personen</abbr>, <abbr title="Bär, Fink">Tiere</abbr>, <abbr title="Ungar">Nationalitäten</abbr> ohne angegebene Endungen.
 
 
 
@@ -225,7 +234,7 @@ GEN| wegen <i style="font-size:0.85em"><small>(due to)</small></i>, während <i 
 
 </div>
 <input class="toggle-box" id="id6" type="checkbox" checked>
-<label for="id6">⚪  W O R T B I L D U N G   V O N   S U B S T A N T I V E N (Päfixe)</label>
+<label for="id6">⚪ P R Ä F I X E </label>
 <div>M Endnungen:  -el, -en, -er, -ig, -ch, -ling, -ismus
 F Endnungen:  -age, -e, -ei, -heit, -keit, -schaft, -ie, -ik, -in, -ion, -tät, -ung, -ur, -istik,
 N Endnungen:  -tum, -ment, -ium, -um
@@ -243,47 +252,49 @@ N Endnungen:  -tum, -ment, -ium, -um
 </div>
 <input class="toggle-box" id="id7" type="checkbox" checked>
 <label for="id7">⚪  V E R G L E I C H S S Ä T Z E (TODO formatting, table)</label>
-<div>Gleichheit:
-    gleich + POSITIV + wie                  Peter ist gleich ungelenk wie Tomas.
-        so + POSITIV + wie                  Peter ist so dünn wie Tomas.
-    so viel  + NON-COUNT NOUN + wie         Ich habe so viel Geld wie du.
-    so viele +     COUNT NOUN + wie         Ich habe so viele Autos wie du.
-Gleichheit (negativ, weniger):
-    nicht so + POSITIV + wie                Du bist nicht so intelligent wie ich!
-Ungleichheit:
-    KOMPARATIV + als                        Er ist stärker als ich.                                            
-Ungleichheit (negativ, weniger):
-    weniger + POSITIV + als                 Er ist weniger intelligent als ich.
-Superlative degree:
-    am + POSITIV + "-sten"                  Welches Auto ist am billigsten?
+<div>      gleich +    POSITIV + wie         Peter ist gleich ungelenk wie Tomas.
+          so +    POSITIV + wie         Peter ist so dünn wie Tomas.
+    so viel  +  NON-COUNT + wie         Ich habe so viel Geld wie du.
+    so viele + COUNT NOUN + wie         Ich habe so viele Autos wie du.
+    nicht so +    POSITIV + wie         Du bist nicht so intelligent wie ich!
 
-z.B:    regular
+           KOMPARATIV + als             Er ist stärker als ich.               
+    weniger + POSITIV + als             Er ist weniger intelligent als ich.
+
+    am + POSITIV + "-sten"              Welches Auto ist am billigsten?
+
+
+        POSITIV       KOMPARATIV    SUPERLATIV
+regular
             langsam        langsamer        am langsamsten
             schön          schöner          am schönsten
             billig         billiger         am billigsten
             langweilig     langweiliger     am langweiligsten
-        vowel change
+
+vowel change
             lang     länger     am längsten   (a -> ä)
             groß     größer     am größten    (o -> ö)
             jung     jünger     am jüngsten   (u -> ü)
-        irregular
-            (-d -t -s -ss -ß -sch -x -z  have  "-esten", rather than "-sten")
+
+irregular
+(-d -t -s -ss -ß -sch -x -z  have  "-esten", rather than "-sten")
             nett     netter     am nettesten 
             rund     runder     am rundesten
             heiß     heißer     am heißesten
-            (-el and -er  have special comparative form)
+(-el and -er  have special comparative form)
             dunkel   dunkler    am dunkelsten
             teuer    teurer     am teuersten
-            (irregular comparative)
+
             nah      näher      am nächsten
             hoch     höher      am höchsten
-            (irregular comparative)
+
             gut      besser     am besten
             viel     mehr       am meisten
             gern     lieber     am liebsten
             bald     eher       am ehesten
-        (i) Always use "-er" and "-st" forms. But for comparing two adjectives "eher" can be used:
-            z.B.   Es ist eher langweilig als schwierig. ("It’s more boring than difficult")
+        
+(i) Always use "-er" and "-st" forms. But for comparing two adjectives "eher" can be used:
+    z.B.   Es ist eher langweilig als schwierig. ("It’s more boring than difficult")
 
 
 

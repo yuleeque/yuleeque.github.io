@@ -12,11 +12,11 @@ table {
 
 table, th, td {
   border: 1px solid black;
-  border-color: white;
+  border-color: #8a8aa0;
 }
 
 :root {
-  --background-color: #434351;
+  --background-color: #4C4C5C;  /* name: Quartz  */
   --font-color: #bac5d6;
   --lines-color: red;
 }
