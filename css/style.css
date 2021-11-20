@@ -4,31 +4,75 @@ background color Base03 #002b36
 font color       Base2  #eee8d5
 */
 
+
+table {
+  border-collapse: collapse;
+  border-color: white;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-color: white;
+}
+
+:root {
+  --background-color: #1f1f29;
+  --font-color: #96a2b3;
+  --lines-color: red;
+}
+
+ /* unvisited link */
+a:link {
+  color: #ff8f46;
+  background-color: transparent;
+}
+
+/* visited link */
+a:visited {
+  color: #ff8f46;
+  background-color: transparent;
+}
+
+/* mouse over link */
+a:hover {
+  color: #f95142;
+  background-color: transparent;
+}
+
+/* selected link */
+a:active {
+  color: red;
+  background-color: transparent;
+} 
+
+
+
 body {
-  background-color: #eee8d5;
+  background-color: var(--background-color);
   font-family: 'Courier New', monospace;
   font-size: 16px;
 }
 
 h1 {
-  color: #003d4d;
+  color: var(--font-color);
   margin-left: 40px;
   white-space: pre;
 }
 
 p {
-  color: #003d4d;
+  color: var(--font-color);
   white-space: pre;
 }
 
 pre {
-  color: #003d4d;
+  color: var(--font-color);
   white-space: pre;
 }
 
 canvas {
   border: 1px solid #000;
 }
+
 
 
 
@@ -48,6 +92,14 @@ canvas {
 .toggle-box:checked + label + div {
   display: block;
 }
+
+
+
+
+
+
+
+
 
 
 /* advanced version
