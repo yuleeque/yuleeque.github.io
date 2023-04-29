@@ -1,0 +1,502 @@
+3-line breaks between main blocks
+2-line breaks inside those blocks
+(i) - info, tips, hints
+(_) - temporary material: may change to (i) or be deleted
+TODO - something to do later
+$ - for easier formatting (i.e. PDF) with regular expressions. For OpenOffice, find is "^[$].*\." and "\+DAT" ; replace is "&".
+
+
+(_) keep tracking of some sources - not necessarily used here - I come across when searching for information.
+https://www.germanveryeasy.com
+https://www.deutschplus.net
+https://www.dartmouth.edu/~deutsch/Grammatik/Subjunctive/KonjunktivII.html
+(yet unused) https://www.korrekturen.de/
+
+
+possible topics order:
+https://deutsch.lingolia.com/en/grammar
+
+
+Z E I T F O R M E N
+Präsens    - present & future                                                   ich lerne
+Präteritum - stories & reports, mostly when writing                             ich lernte
+Futur I    - intention or suppostion                                            ich werde lernen
+Perfekt    - the result of sth from the past                                    ich habe gelernt
+Plusquamperfekt - sth that happened before another sth in the past              ich hatte gelernt
+Futur II   - an assumption that by the time of speaking,                        ich werde gelernt haben
+               or at later point, an action will have been completed
+
+
+
+V E R B E N, die den AKK mögen:
+anrufen, aufräumen, bestellen, besuchen, bitten, brauchen, einladen, essen, finden, fragen, haben, heiraten, hören,
+kaufen, kennen, kochen, lesen, lieben, machen, malen, mögen, nehmen, öffnen, schhneiden, schließen, sehen, suchen,
+treffen, trinken, vergessen, verlieren, verpassen, verstehen, wiederholen, wollen, zahlen
+
+V E R B E N, die den DAT mögen:
+antworten, begegnen, danken, dienen, fehlen, folgen, gefallen, gehören, gelingen, glauben, gratulieren, gut tun, helfen,
+leid tun, misslingen, nützen, passen, passieren, schaden, schmecken, vertrauen, verzeihen, zuhören, zuschauen, zusehen
+
+
+TODO: add more examples in expandable for each ab/ an/ etc.
+V E R B E N
+trennbar    ab/fahren, an/sehen, auf/räumen, aus/ziehen, bei/stehen, dar/stellen, ein/kaufen, fest/stellen
+            fort/setzen, her/kommen, herum/stehen, hin/fallen, los/fahren, mit/nehmen, nach/denken,
+            rein/kommen, vor/stellen, vorbei/kommen, weg/laufen, weiter/gehen, zu/hören
+untrennbar  beginnen, entscheiden, erzählen, gefallen, missfallen, verstehen, zerreißen
+(_)         be        ent          er        ge        miss        ver        zer
+
+
+
+
+P R O N O M E N
+
+       M   F   N    PL
+---------------------------------------------------------------------------------------------------
+NOM   der die das  die  |  ich    du        er     sie   es        wir   ihr  sie   Sie    | wer
+AKK   den die das  die  |  mich   dich      ihn    sie   es        uns   euch sie   Sie    | wen
+DAT   dem der dem  den  |  mir    dir       ihm    ihr   ihm       uns   euch ihnen Ihnen  | wem
+GEN   des der des  der  |  meiner deiner    seiner ihrer seiner    unser euer ihrer Ihrer  | wessen
+---------------------------------------------------------------------------------------------------
+        (reflexive)     |  mich   dich      sich   sich  sich      uns   euch sich  sich   |
+------------------------------------------------------------------------ sich (höflich) -----------
+
+
+
+A D J E K T I V D E K L I N A T I O N
+
+            M A S K U L I N       F E M I N I N          N E U T E R            P L U R A L
+
+NOMINATIV
+           der   große  Hund     die   große  Katze     das   große  Zebra     die   großen Tiere
+           ein   großer Hund     eine  große  Katze     ein   großes Zebra     
+                 großer Hund           große  Katze           großes Zebra           große  Tiere
+
+AKKUSATIV
+           den   großen Hund     die   große  Katze     das   große  Zebra     die   großen Tiere
+           einen großen Hund     eine  große  Katze     ein   großes Zebra       
+                 großen Hund           große  Katze           großes Zebra           große  Tiere
+
+DATIV
+           dem   großen Hund     der   großen Katze     dem   großen Zebra     den   großen Tieren
+           einem großen Hund     einer großen Katze     einem großen Zebra       
+                 großem Hund           großer Katze           großem Zebra           großen Tieren
+                                                                              (denen)
+GENITIV
+           des   großen Hundes   der   großen Katze     des   großen Zebras    der   großen Tiere
+           eines großen Hundes   einer großen Katze     eines großen Zebras      
+                 großen Hundes         großer Katze           großen Zebras          großer Tiere
+          (dessen)              (deren)                (dessen)               (deren)
+
+
+
+
+
+N - D E K L I N A T I O N
+
+------------------------------------------------------------------------------------------------------------
+           examples              |       3 N-Deklination Ausnahmen mit +s         |   unique exception: N
+------------------------------------------------------------------------------------------------------------ 
+NOM    der Herr   der Mensch     |   der Name    der Gedanke    der Buchstabe     |   das Herz    die Herzen
+AKK    den Herrn  den Menschen   |   den Namen   den Gedanken   den Buchstaben    |   das Herz    die Herzen
+DAT    dem Herrn  dem Menschen   |   dem Namen   dem Gedanken   dem Buchstaben    |   dem Herzen  den Herzen
+GEN    des Herrn  des Menschen   |   des Namens  des Gedankens  des Buchstabens   |   des Herzens der Herzen
+------------------------------------------------------------------------------------------------------------
+
+M mit Endungen:
+    -e     der Junge         -ist    der Polizist        -at    der Soldat
+    -graf  der Fotograf      -agoge  der Pädagoge        -ot    der Pilot
+    -it    der Bandit        -ant    der Praktikant      -ent   der Student
+    -soph  der Philosoph     -and    der Doktorand       -loge  der Psychologe
+
+(i) [] bedeutet die Wörter aus der untenstehende Tabelle
+Nationalitäten auf "-e":
+    der Afghane, der Baske, der Brite, der Bulgare, der Chinese, der Däne, der Franzose, der Grieche, der Ire,
+    der Jugoslawe, der Kroate, der Kurde, der Mongole, der Pole, der Russe, der Schotte, der Türke, der Ungar
+Personen:
+	der Architekt, [der Aktivist], der Bauer, [der Bote], [der Bube], [der Bursche], [der Chaot], der Depp, [der Erbe],
+  [der Experte], [der Favorit], der Fürst, [der Gatte], [der Heide], der Held, der Herr, [der Insasse], [der Junge],
+  [der Junggeselle], der Kamerad, [der Kandidat], der Knabe, der Kollege, der Kommilitone, der Komplize, der Kunde,
+  der Laie, der Mensch,	der Nachbar, der Narr, [der Neffe], der Prinz, der Rebell, [der Riese], [der Sklave], [der Zeuge]
+Tiere:
+    der Affe, der Bär, der Bulle, der Coyote, der Drache, der Elefant, der Falke, der Fink, der Hase,
+    der Löve, der Ochse, der Rabe, der Schimpanse
+
+
+
+
+
+N E G A T I O N
+
+            INDEFINITPRONOMEN                      Negation
+-----------------------------------------------------------------------------------------------
+Person | man, jemand, einer, irgendwer        | niemand, keiner
+   Ort | irgendwo, irgendwoher, irgendwohin   | nirgendwo, nirgendwoher, nirgendwohin, nirgends
+  Zeit | irgendwann                           | nie, niemals
+ Dinge | irgend(et)was, etwas, eins           | nichts, keins
+-----------------------------------------------------------------------------------------------
+
+etwas            -> nichts                      schon (ein)mal -> noch nie
+jemand/alle      -> niemand                     immer          -> nie/niemals
+irgendwo/überall -> nirgendwo/nirgends          (immer) noch   -> nicht mehr / nie mehr
+schon/bereits    -> noch nicht
+    
+TODO: add much more examples to memorise                                                
+Nicht-                  | Nomen      -         -    |  das Nichtsein
+-los -frei -leer        |   -    Adjektive     -    |  sinnlos, emotionsfrei, halbleer (~10 Wörter)
+un- in- il- ir- a- non- | Nomen  Adjektive     -    |  das Unding, unartig, _ inaktiv, illegalerweise, irrational, atypisch, der Nonsens
+des- dis- miss-         | Nomen  Adjektive  Verben  |  das Desinteresse, disqualifiziert, missverstehen
+
+
+
+
+
+P R Ä P O S I T I O N E N          
+
+NOM| als
+AKK| betreffend* bis durch entlang* für gegen ohne um wider
+DAT| ab aus außer bei entgegen* entsprechend* (mit)samt  gegenüber* gemäß* laut mit nach* nahe seit von zu
+AKK+DAT| an auf hinter in neben über unter vor zwischen  (motion / location)
+GEN| (an)statt abzüglich angesichts außerhalb bar bezüglich binnen dank einschließlich infolge inmitten innerhalb mangels mittels oberhalb trotz unbeschadet ungeachtet unterhalb unweit während wegen zufolge zugunsten
+* - can also be used after the noun as postpositions
+
+
+(_) temporary seсtion to memorize-associate                    
+NOM| als (than) 
+AKK| bis (until) , durch (through) , für (for) , um (around) , gegen (against) , ohne (without) , entlang (along) 
+DAT| ab (from) , außer (other than) , aus (out) , bei (by) , gegenüber (opposite) , mit (with) , nach (after) , seit (since) , von (from) , zu (to) 
+DAT+AKK| an (on) , auf (on) , in (in) , über (over) , unter (under) , vor (in front of) , hinter (behind) , zwischen (between) , neben (next to) 
+GEN| wegen (due to) , während (while/during) , infolge (as a result) , statt (instead) , trotz (despite) 
+
+
+
+
+
+P R Ä P O S I T I O N E N   M I T   L O K A L E R   B E D E U T U N G
+                    Woher?      Wo?         Wohin?
+--------------------------------------------------------
+
+Land (artikel)      aus +D      in +D       in +A
+Landschaft/Gebirge  aus +D      in +D       in +A
+Gebäude             aus +D      in +D       in +A
+Straße              aus +D      in +D       in +A
+Position im Raum    aus +D      in +D       in +A       (_) das Regal
+
+Bank/Post           aus +D      auf +D      auf +A      (_)"Wohin?" Sie gehen auf die Bank.
+
+Insel (gruppe)      von +D      auf +D      auf +A
+Berg                von +D      auf +D      auf +A
+Position im Raum    von +D      auf +D      auf +A      (_) der Stuhl
+
+Meer/Fluss/See      von +D      an +D       an +A
+Strand              von +D      an +D       an +A
+Position im Raum    von +D      an +D       an +A       (_) die Wand
+
+--------------------------------------------------------
+
+Continent           aus +D      in +D       nach +D
+Land                aus +D      in +D       nach +D
+Stadt               aus +D      in +D       nach +D
+Zu Hause            von +D      zu +D       nach +D
+Richtung            von +D      --          nach +D
+
+Geschäft/Raum       aus +D      in +D       zu +D
+Bank/Post           aus +D      in +D       zu +D       (_)"Wohin?" Sie gehen zur Bank.  
+Arbeitsplatz        von +D      bei +D      zu +D
+Person              von +D      bei +D      zu +D
+Platz(in der Stadt) von +D      an +D       zu +D
+
+Stadt               aus +D    bei+D/an+D    nach +D     (_)"Wo?" Hanau liegt bei Frankfurt am Main.
+--------------------------------------------------------
+TODO - makes sense to highlight only "+A" since there's only a few of them
+info: sorted by last two columns patterns (AKK incl.), then by just last column (DAT only)
+
+
+
+
+
+
+
+
+https://www.deutschplus.net/en/pages/Aktiv_und_Passiv
+P A S S I V (TODO Aktiv on pop-up) (TODO2 highlight werden and sein)
+Vorgangpassiv  "werden" + Partizip II       Zustandspassiv  "sein" + Partizip II
+
+         process/action                             state/result
+Präsens
+Das Buch wird gelesen.                      Das Buch ist gelesen.
+Das Buch muss gelesen werden.               Das Buch muss gelesen sein.
+
+Präteritum
+Das Buch wurde gelesen.                     Das Buch war gelesen.
+Das Buch musste gelesen werden.             Das Buch musste gelesen sein.
+
+Perfekt
+Das Buch ist gelesen worden.                Das Buch ist gelesen gewesen.    
+Das Buch hat gelesen werden müssen.         Das Buch hat gelesen gewesen müssen.
+
+Plusquamperfekt
+Das Buch war gelesen worden.                Das Buch war gelesen gewesen.
+Das Buch hatte gelesen werden müssen.       Das Buch hatte gelesen gewesen müssen.
+
+Futur I
+Das Buch wird gelesen werden.               Das Buch wird gelesen sein.
+Das Buch wird gelesen werden müssen.        Das Buch wird gelesen sein müssen.
+
+Futur II
+Das Buch wird gelesen worden sein.          Das Buch wird gelesen gewesen sein.
+Das Buch wird gelesen worden sein müssen.   Das Buch wird gelesen gewesen sein müssen.
+
+
+
+
+
+
+
+K O N J U N K T I V   I      (indirekte Rede)
+
+       Konjunktiv I     Hans sagt, er sei 27 Jahre alt.
+Konjunktiv I + dass     Hans sagt, dass er Durst habe.
+Indikativ    + dass     Hans sagt, dass er Durst hat.
+
+Most often used words:
+    erzählen, fragen, hören, lesen, sagen, vermuten, versprechen
+
+Tabelle (https://www.germanveryeasy.com/konjunktiv-i#Conjugation-of-Konjunktiv-I)
+
+
+
+K O N J U N K T I V   I I
+
+(https://www.deutschplus.net/pages/Konjunktiv_II) alles
+(_) using the link above, reuse following examples:
+    is used to express:
+    - desire, dreams, fantasies, imaginary situations
+        Wenn ich doch mehr Geld hätte! Wenn ich bloß meinen Stift debei hätte! Wenn es doch nur nicht regen würde!
+        (doch, bloß, nur, doch bloß, doch nur)
+    - polite form for asking for something
+        Ich hätte gern eine Cola.
+    - indirect speech for when use of Konjunktiv I is ambiguous
+        Er meint er würde gut singen.
+    - recommendations or suggestions
+        Wenn ich an deiner Stelle wäre, würde ich ein gutes Buch kaufen.
+    - when a situation is described that just barely did not take place ("fast" or "beinahe", both mean "almost")
+        die Frau wäre fast vom Pferd gefallen
+        die Frau wäre beinahe vom Pferd gefallen 
+
+TODO -- (CA91A) https://www.deutschplus.net/en/pages/Irrealer_Konditionalsatz
+
+
+sein  | haben   | werden  | dürfen   | können   | mögen    | müssen   | sollen   | wollen
+--------------------------|----------------------------------------------------------------       
+wäre  | hätte   | würde   | dürfte   | könnte   | möchte   | müsste   | sollte   | wollte
+wärst | hättest | würdest | dürftest | könntest | möchtest | müsstest | solltest | wolltest  (+ wärest)
+wäre  | hätte   | würde   | dürfte   | könnte   | möchte   | müsste   | sollte   | wollte
+wären | hätten  | würden  | dürften  | könnten  | möchten  | müssten  | sollten  | wollten
+wärt  | hättet  | würdet  | dürftet  | könntet  | möchtet  | müsstet  | solltet  | wolltet   (+ waret)
+wären | hätten  | würden  | dürften  | könnten  | möchten  | müssten  | sollten  | wollten
+
+
+brauchen   | bringen   | denken   | finden  | geben  | gehen   | kommen | tun    | wissen
+-------------------------------------------------------------------------------------------
+brauchte   | brächte   | dächte   | fände   | gäbe   | ginge   | käme   | täte   | wüsste
+brauchtest | brächtest | dächtest | fändest | gäbest | gingest | kämest | tätest | wüsstest
+brauchte   | brächte   | dächte   | fände   | gäbe   | ginge   | käme   | täte   | wüsste
+brauchten  | brächten  | dächten  | fänden  | gäben  | gingen  | kämen  | täten  | wüssten
+brauchtet  | brächtet  | dächtet  | fändet  | gäbet  | ginget  | kämet  | tätet  | wüsstet
+brauchten  | brächten  | dächten  | fänden  | gäben  | gingen  | kämen  | täten  | wüssten
+
+
+
+
+
+
+
+W O R T B I L D U N G   V O N   S U B S T A N T I V E N (Päfix)
+
+
+M Endnungen:  -el, -en, -er, -ig, -ch, -ling, -ismus
+F Endnungen:  -age, -e, -ei, -heit, -keit, -schaft, -ie, -ik, -in, -ion, -tät, -ung, -ur, -istik,
+N Endnungen:  -tum, -ment, -ium, -um
+
+-chen, -lein haben keine Endung im Plural
+    der Tisch ->  das Tischlein, die Tischlein
+    das Brot  ->  das Brötchen,  die Brötchen
+
+(i) It's also possible to overcute words. Better not to do this. Just be able to recognize ones.
+    Hallo - Hallöchen,  Alles klar - Klärchen
+
+
+
+
+
+
+
+
+V E R G L E I C H S S Ä T Z E
+
+Gleichheit:
+    gleich + POSITIV + wie                  Peter ist gleich ungelenk wie Tomas.
+        so + POSITIV + wie                  Peter ist so dünn wie Tomas.
+    so viel  + NON-COUNT NOUN + wie         Ich habe so viel Geld wie du.
+    so viele +     COUNT NOUN + wie         Ich habe so viele Autos wie du.
+Gleichheit (negativ, weniger):
+    nicht so + POSITIV + wie                Du bist nicht so intelligent wie ich!
+Ungleichheit:
+    KOMPARATIV + als                        Er ist stärker als ich.                                            
+Ungleichheit (negativ, weniger):
+    weniger + POSITIV + als                 Er ist weniger intelligent als ich.
+Superlative degree:
+    am + POSITIV + "-sten"                  Welches Auto ist am billigsten?
+
+z.B:    regular
+            langsam        langsamer        am langsamsten
+            schön          schöner          am schönsten
+            billig         billiger         am billigsten
+            langweilig     langweiliger     am langweiligsten
+        vowel change
+            lang     länger     am längsten   (a -> ä)
+            groß     größer     am größten    (o -> ö)
+            jung     jünger     am jüngsten   (u -> ü)
+        irregular
+            (-d -t -s -ss -ß -sch -x -z  have  "-esten", rather than "-sten")
+            nett     netter     am nettesten 
+            rund     runder     am rundesten
+            heiß     heißer     am heißesten
+            (-el and -er  have special comparative form)
+            dunkel   dunkler    am dunkelsten
+            teuer    teurer     am teuersten
+            (irregular comparative)
+            nah      näher      am nächsten
+            hoch     höher      am höchsten
+            (irregular comparative)
+            gut      besser     am besten
+            viel     mehr       am meisten
+            gern     lieber     am liebsten
+            bald     eher       am ehesten
+        (i) Always use "-er" and "-st" forms. But for comparing two adjectives "eher" can be used:
+            z.B.   Es ist eher langweilig als schwierig. ("It’s more boring than difficult")
+
+
+
+
+K O N N E K T O R E N (TODO fix: examples don't purely express the cases, sometimes mixed, sometimes they aren't enough - e.g. "und" --> added 2nd example)
+
+Konjunktionen: HS+HS oder NS+NS.
+aber            "but"                Das Angebot ist super, aber wir haben keine Zeit.
+beziehungsweise "respectively"       Es gibt "A" und "B". Es kostet 7 Euro bzw. 10 Euro.
+denn            "because, then"      Ich weinte, denn ich hatte kein Geld.
+
+oder            "or"                 Ich weiß nicht, ob ich lachen oder weinen soll.
+sondern         "but, but rather"    Das Haus ist nicht alt, sondern neu.
+und             "and"                Meine Freunde und ich wollen ins Kino gehen.
+                                     Meine Freunde will ins Lino gehen und ich will auch.
+
+Subjunktionen: HS+NS und vice versa.
+ob      "whether, if"                 Er hat gefragt, ob du ins Kino gehen möchtest.
+dass    "that"                        Ich denke, dass die deutsche Sprache kompliziert ist.
+
+weil/da   "because"                   Sie arbeitet heute nicht, weil sie krank ist.
+
+obwohl  "although"                    Ich mag Kinder, obwohl ich keine habe.
+
+wenn/falls    "if"                    Wenn ich singe, fühle ich mich viel besser.
+
+damit [um...zu]   "so that"           Ich spare, damit meine Familie ein Auto kaufen kann.
+
+soviel  "as far as"                   Soviel ich weiß, ist sie in Berlin geboren.
+
+wo wie wer wohin wann warum ...       Ich weiß nicht, wer er ist, wo er wohnt, wohin er geht,
+                                        wann er wieder kommt, warum er mich angerufen hat...
+
+als       "when"                      Als ich Kind warr, wohnte ich in München.
+bis       "until"                     Warte, bis du gesund bist.
+bevor     "before"                    Woran denkst du, bevor du einschläfst?
+nachdem   "after"                     Nachdem wir aufgestanden waren, haben wir gepackt.
+sowie     "as soon as"                Ich schicke dir das Dokumnt, sowie es fertig ist.
+seit[dem] "since"                     Ich habe kein Heizung, seit[dem] ich in Spanien wohne.
+sobald    "as soon as"                Ich informiere dich, sobald ich kann.
+sofern    "provided that/as long as"  Wir versuchen zu helfen, sofern es möglich ist.
+soweit    "insofar as"                Soweit ich mich erinnern kann, war er Pilot.
+während   "while"                     Während ich studierte, lernte ich auch Deutsch.
+
+DESHALB und TROTZDEM:
+deshalb    "for that reason"          Die Kaffemaschine ist kaputt, deshalb trinken wir keinen Kaffee.
+                                      Die Kaffemaschine ist kaputt. Deshalb trinken wir keinen Kaffee.
+trotzdem   "despite/in spite of"      Ich mag lieber Wein, trotzdem trinke ich ein Bier.
+                                      Ich mag lieber Wein. Trotzdem trinke ich ein Bier.
+
+
+Z W E I T E I L I G E
+Jetzt habe ich [nicht nur] nette Kollegen, [sondern auch] abwechslungsreichere Aufgaben.                    [HS + NS]
+Ich muss mich [sowohl] um das Design [als auch] um die Produktion kümmern.                                  [HS + NS]
+Ich habe [weder] über Stellenanzeigen in der Zeitung [noch] über Internetportale eine neue Stelle gefunden. [HS + HS]
+[Je] mehr Absagen ich bekam, [desto/umso] frustierter wurde ich.                                            [NS + HS]
+[Entweder] kämpft man sich durch diese Praktikumszeit [oder] man findet wahrscheinlich nie eine Stelle. 
+Bei dem Praktikum verdiene ich [zwar] nichts, [aber] ich sammle wichtige Berufserfahrung.
+[Einerseits] hat mir der Job gut gefallen, [andererseits] brauche ich immer neue Herausforderungen.
+
+Z U +   u n d   A L T E R N A T I V E N  (TODO -- verschiedene Farbe) 
+    Absicht, Ziel, Zweck (final)
+- Ich rufe an, [um] das Teamevent [zu] buchen.
+- Ich rufe an, [damit] die Firma ein Angebot erstellt.
+- Ich rufe an, [weil] ich das Teamevent buchen [möchte].
+- Ich rufe [zum] Buchen des Teamevent an.
+    Einschränkung (restriktiv)
+- Ich habe lange gewartet, [ohne] ein Angebot [zu] bekommen.
+- Ich habe lange gewartet, [ohne dass] die Firma ein Angebot geschickt hat.
+- Ich habe lange gewartet, [aber] ich habe das Angebot nicht bekommen.
+- Ich habe lange gewartet, [trotzdem] habe ich das Angebot nicht bekommen.
+    Alternative oder Gegensatz (alternativ oder adversativ)
+- [(An)statt] lange [zu] telefonieren, könntest du das Angebot fertig machen.
+- [(An)statt dass] wir lange telefonieren, könnten Sie mir das Angebot per Mail schicken.
+- Sie haben [nicht] telefoniert, [sondern] die Firma hat das Angebot per Mail geschickt.
+
+(i) die Ordnung:   
+- um/ohne/(an)statt + zu + Infinitiv
+- damit, ohne dass, (an)statt dass
+- Alternative
+- Alternative
+TODO -- find better way to organize it. Maybe rows for "Absicht", cols for "um/ohne/(an)statt"
+
+
+
+
+
+
+TODO: refactor because TOO BLOAT
+http://www.canoonet.eu/services/OnlineGrammar/Wort/Artikel/Artikelwort/Liste.html
+A R T I K E L 
+
+bestimmter Artikel      der,           das,           die;          die
+unbestimmter Artikel    ein,           ein,           eine
+Demonstrativartikel     dieser,        dieses,        diese;        diese
+                        jener,         jenes,         jene;         jene
+                        derjenige,     diejenige,     dasjenige;    diejenigen
+                        derselbe,      dieselbe,      dasselbe;     dieselben
+                        / dergleichen, derlei, derartig, dieserart, so geartet
+Possessivartikel        / mein, dein, sein, sein, ihr; unser, eurer, ihr
+                        / dessen, deren
+Interrogativartikel     welcher,       welches,       welche;       welcher
+                        / wessen
+Indefinitartikel        aller,         alles,         alle;         alle
+                        einiger,       einiges,       einige;       einige
+                        etlicher,      etliches,      etliche;      etliche
+                        irgendwelcher, irgendwelches, irgendwelche; irgendwelche
+                        jeder,         jedes,         jede;         jede
+                        jedweder,      jedwedes,      jedwede;      jedwede
+                        kein,          kein,          keine;        keine
+                        mancher,       manches,       manche;       manche
+                        / mehrere
+
+(i) Die Pronomen sind nur dann Artikelwörter, wenn sie ein Nomen begleiten. 
+    Wenn sie alleine stehen, sind sie "reine" Pronomen. 
+(i) Dekliniert wie bestimmte:
+    - Possessivpronomen im Plural (meine)
+    - negativ unbestimmter Artikel im Plural
+    - d-Artikelwörter (dieser, derselbe, derjenige)
+    - j-Artikelwörter (jener, jeder, jedlicher)
+    - Fragepronomen   (welcher, manche, solche)
+    Zahlwörter        (alle, beide, sämtliche)
+(i) GEN is can be replaced by DAT using "von": 
+    der Hund meines Bruders -> der Hund von meinem Bruder
